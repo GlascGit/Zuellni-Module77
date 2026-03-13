@@ -1,0 +1,31 @@
+{
+  "databases": [
+    {
+      "name": "linux",
+      "file": "linux-db.json",
+      "version": "1.0",
+      "keywords": [
+        "linux",
+        "ubuntu",
+        "debian",
+        "fedora",
+        "arch",
+        "mint",
+        "opensuse",
+        "manjaro"
+      ]
+    },
+    {
+      "name": "github",
+      "file": "github-db.json",
+      "version": "1.0",
+      "keywords": [
+        "github",
+        "repo",
+        "repository",
+        "project",
+        "openclaw"
+      ]
+    }
+  ]
+}
