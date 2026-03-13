@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "title": "OpenClaw",
+      "description": "Open-source reimplementation of Captain Claw game engine",
+      "link": "https://github.com/pjasicek/OpenClaw",
+      "category": "Game Engine",
+      "official": true,
+      "rank": 100
+    },
+    {
+      "title": "Zuellni",
+      "description": "Curated knowledge search engine project",
+      "link": "https://github.com/GlascGit/Zuellni",
+      "category": "Search Engine",
+      "official": true,
+      "rank": 100
+    },
+    {
+      "title": "Zuellni Module77",
+      "description": "Distributed database for Zuellni knowledge network",
+      "link": "https://github.com/GlascGit/Zuellni-Module77",
+      "category": "Database",
+      "official": true,
+      "rank": 100
+    },
+    {
+      "title": "Linux Kernel",
+      "description": "The Linux kernel source code",
+      "link": "https://github.com/torvalds/linux",
+      "category": "Operating System",
+      "official": true,
+      "rank": 100
+    },
+    {
+      "title": "Neovim",
+      "description": "Hyperextensible Vim-based text editor",
+      "link": "https://github.com/neovim/neovim",
+      "category": "Editor",
+      "official": true,
+      "rank": 95
+    }
+  ]
+}
