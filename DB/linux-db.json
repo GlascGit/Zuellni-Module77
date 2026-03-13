@@ -1,64 +1,60 @@
 {
-  "linuxDistributions": [
+  "entries": [
     {
-      "name": "Ubuntu",
-      "description": "User-friendly Debian-based distribution, popular for desktop and server",
+      "title": "Ubuntu",
+      "description": "User-friendly Debian-based Linux distribution",
       "link": "https://ubuntu.com/download",
-      "category": "Desktop/Server"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 100
     },
     {
-      "name": "Debian",
-      "description": "Stable, universal operating system, foundation for many other distributions",
+      "title": "Debian",
+      "description": "Universal and stable Linux distribution",
       "link": "https://www.debian.org/distrib/",
-      "category": "Universal"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 100
     },
     {
-      "name": "Fedora",
-      "description": "Cutting-edge distribution sponsored by Red Hat",
+      "title": "Fedora",
+      "description": "Cutting-edge Linux distribution sponsored by Red Hat",
       "link": "https://getfedora.org/",
-      "category": "Desktop/Workstation"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 95
     },
     {
-      "name": "Arch Linux",
-      "description": "Rolling release distribution for advanced users",
+      "title": "Arch Linux",
+      "description": "Rolling release Linux distribution for advanced users",
       "link": "https://archlinux.org/download/",
-      "category": "Advanced"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 95
     },
     {
-      "name": "Linux Mint",
-      "description": "Elegant, easy to use, and comfortable desktop operating system",
+      "title": "Linux Mint",
+      "description": "Easy-to-use desktop Linux distribution",
       "link": "https://linuxmint.com/download.php",
-      "category": "Desktop"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 90
     },
     {
-      "name": "openSUSE",
-      "description": "Stable and user-friendly distribution with excellent system administration tools",
+      "title": "openSUSE",
+      "description": "Stable distribution with powerful system administration tools",
       "link": "https://get.opensuse.org/",
-      "category": "Desktop/Server"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 85
     },
     {
-      "name": "Manjaro",
-      "description": "User-friendly Arch-based distribution",
+      "title": "Manjaro",
+      "description": "User-friendly Arch-based Linux distribution",
       "link": "https://manjaro.org/download/",
-      "category": "Desktop"
-    },
-    {
-      "name": "CentOS",
-      "description": "Enterprise-class distribution derived from Red Hat Enterprise Linux",
-      "link": "https://www.centos.org/download/",
-      "category": "Server"
-    },
-    {
-      "name": "Alpine Linux",
-      "description": "Security-oriented, lightweight Linux distribution based on musl libc and busybox",
-      "link": "https://alpinelinux.org/downloads/",
-      "category": "Security/Container"
-    },
-    {
-      "name": "Pop!_OS",
-      "description": "Ubuntu-based distribution with excellent hardware support for System76 computers",
-      "link": "https://pop.system76.com/",
-      "category": "Desktop/Gaming"
+      "category": "Linux Distribution",
+      "official": true,
+      "rank": 80
     }
   ]
 }
