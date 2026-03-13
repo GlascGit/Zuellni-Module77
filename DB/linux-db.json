@@ -1,0 +1,64 @@
+{
+  "linuxDistributions": [
+    {
+      "name": "Ubuntu",
+      "description": "User-friendly Debian-based distribution, popular for desktop and server",
+      "link": "https://ubuntu.com/download",
+      "category": "Desktop/Server"
+    },
+    {
+      "name": "Debian",
+      "description": "Stable, universal operating system, foundation for many other distributions",
+      "link": "https://www.debian.org/distrib/",
+      "category": "Universal"
+    },
+    {
+      "name": "Fedora",
+      "description": "Cutting-edge distribution sponsored by Red Hat",
+      "link": "https://getfedora.org/",
+      "category": "Desktop/Workstation"
+    },
+    {
+      "name": "Arch Linux",
+      "description": "Rolling release distribution for advanced users",
+      "link": "https://archlinux.org/download/",
+      "category": "Advanced"
+    },
+    {
+      "name": "Linux Mint",
+      "description": "Elegant, easy to use, and comfortable desktop operating system",
+      "link": "https://linuxmint.com/download.php",
+      "category": "Desktop"
+    },
+    {
+      "name": "openSUSE",
+      "description": "Stable and user-friendly distribution with excellent system administration tools",
+      "link": "https://get.opensuse.org/",
+      "category": "Desktop/Server"
+    },
+    {
+      "name": "Manjaro",
+      "description": "User-friendly Arch-based distribution",
+      "link": "https://manjaro.org/download/",
+      "category": "Desktop"
+    },
+    {
+      "name": "CentOS",
+      "description": "Enterprise-class distribution derived from Red Hat Enterprise Linux",
+      "link": "https://www.centos.org/download/",
+      "category": "Server"
+    },
+    {
+      "name": "Alpine Linux",
+      "description": "Security-oriented, lightweight Linux distribution based on musl libc and busybox",
+      "link": "https://alpinelinux.org/downloads/",
+      "category": "Security/Container"
+    },
+    {
+      "name": "Pop!_OS",
+      "description": "Ubuntu-based distribution with excellent hardware support for System76 computers",
+      "link": "https://pop.system76.com/",
+      "category": "Desktop/Gaming"
+    }
+  ]
+}
