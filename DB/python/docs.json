@@ -5,6 +5,12 @@
       "description": "Returns a printed representation of the objects.",
       "link": "https://python-reference.readthedocs.io/en/latest/docs/functions/print.html",
       "ofic": 0
+    },
+    {
+      "ids": [6,7],
+      "description": "There are several ways to present the output of a program; data can be printed in a human-readable form, or written to a file for future use. This chapter will discuss some of the possibilities.",
+      "link": "https://docs.python.org/3/tutorial/inputoutput.html",
+      "ofic": 0
     }
   ]
 }
