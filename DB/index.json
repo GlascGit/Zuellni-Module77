@@ -1,31 +1,16 @@
 {
-  "databases": [
-    {
-      "name": "linux",
-      "file": "linux-db.json",
-      "version": "1.0",
-      "keywords": [
-        "linux",
-        "ubuntu",
-        "debian",
-        "fedora",
-        "arch",
-        "mint",
-        "opensuse",
-        "manjaro"
-      ]
-    },
-    {
-      "name": "github",
-      "file": "github-db.json",
-      "version": "1.0",
-      "keywords": [
-        "github",
-        "repo",
-        "repository",
-        "project",
-        "openclaw"
-      ]
-    }
+  "linux": [
+    0,
+    [
+      ["install.json", [18,19,20]],
+      ["fedora.json", [2]]
+    ]
+  ],
+  "python": [
+    1,
+    [
+      ["docs.json", [3,4,5,6]],
+      ["news.json", [16,17]]
+    ]
   ]
 }

@@ -1,0 +1,10 @@
+{
+    "linux": 0,
+    "python": 1,
+    "fedora": 2,
+    "print" : 3,
+    "write" : 4,
+    "objects": 5,
+    "output": 6,
+    "str": 7
+}
