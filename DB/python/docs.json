@@ -7,7 +7,7 @@
       "ofic": 0
     },
     {
-      "ids": [6,7],
+      "ids": [6,8],
       "description": "There are several ways to present the output of a program; data can be printed in a human-readable form, or written to a file for future use. This chapter will discuss some of the possibilities.",
       "link": "https://docs.python.org/3/tutorial/inputoutput.html",
       "ofic": 0
