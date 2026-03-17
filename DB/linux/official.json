@@ -10,6 +10,30 @@
     },
     {
       "ids": [0,2,9,16],
+      "title": "Kali Linux",
+      "description": "Home of Kali Linux, an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.",
+      "link": "https://www.kali.org",
+      "icon": "https://www.kali.org/images/favicon.ico",
+      "rank": 9
+    },
+    {
+      "ids": [0,2,9,16],
+      "title": "Pop!_OS",
+      "description": "Linux distribution based on Fedora and Universal Blue",
+      "link": "https://system76.com/pop",
+      "icon": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/product_images/system76_logo-fav-32x32.png",
+      "rank": 9
+    },
+    {
+      "ids": [0,2,9,16],
+      "title": "Bazzite Linux",
+      "description": "Linux distribution based on Fedora and Universal Blue",
+      "link": "https://bazzite.gg",
+      "icon": "https://bazzite.gg/favicon.ico",
+      "rank": 9
+    },
+    {
+      "ids": [0,2,9,16],
       "title": "Red Hat Enterprise Linux",
       "description": "RHEL - Enterprise Linux distribution",
       "link": "https://www.redhat.com",
