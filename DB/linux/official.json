@@ -2,51 +2,67 @@
   "data": [
     {
       "ids": [0,2,9,16],
+      "title": "Fedora Linux",
       "description": "Fedora Linux - Sponsored by Red Hat, cutting-edge features",
-      "name": "Fedora Linux",
-      "link": "https://getfedora.org"
+      "link": "https://getfedora.org",
+      "icon": "https://getfedora.org/favicon.ico",
+      "rank": 10
     },
     {
       "ids": [0,2,9,16],
+      "title": "Red Hat Enterprise Linux",
       "description": "RHEL - Enterprise Linux distribution",
-      "name": "Red Hat Enterprise Linux",
-      "link": "https://www.redhat.com"
+      "link": "https://www.redhat.com",
+      "icon": "https://www.redhat.com/favicon.ico",
+      "rank": 9
     },
     {
       "ids": [0,15],
+      "title": "Linux Kernel",
       "description": "Official Linux Kernel website and documentation",
-      "name": "Linux Kernel",
-      "link": "https://www.kernel.org"
+      "link": "https://www.kernel.org",
+      "icon": "https://www.kernel.org/theme/images/logos/favicon.png",
+      "rank": 10
     },
     {
       "ids": [0],
+      "title": "Ubuntu",
       "description": "Ubuntu Linux - Popular distribution based on Debian",
-      "name": "Ubuntu",
-      "link": "https://ubuntu.com"
+      "link": "https://ubuntu.com",
+      "icon": "https://ubuntu.com/favicon.ico",
+      "rank": 8
     },
     {
       "ids": [0],
+      "title": "Debian",
       "description": "Debian - The Universal Operating System",
-      "name": "Debian",
-      "link": "https://www.debian.org"
+      "link": "https://www.debian.org",
+      "icon": "https://www.debian.org/favicon.ico",
+      "rank": 8
     },
     {
       "ids": [0],
+      "title": "Arch Linux",
       "description": "Arch Linux - Simple, lightweight distribution",
-      "name": "Arch Linux",
-      "link": "https://archlinux.org"
+      "link": "https://archlinux.org",
+      "icon": "https://archlinux.org/static/logos/favicon.ico",
+      "rank": 7
     },
     {
       "ids": [0],
+      "title": "Linux Mint",
       "description": "Linux Mint - Comfortable and easy to use",
-      "name": "Linux Mint",
-      "link": "https://linuxmint.com"
+      "link": "https://linuxmint.com",
+      "icon": "https://linuxmint.com/favicon.ico",
+      "rank": 7
     },
     {
       "ids": [0],
+      "title": "openSUSE",
       "description": "openSUSE - Making the best Linux desktop",
-      "name": "openSUSE",
-      "link": "https://www.opensuse.org"
+      "link": "https://www.opensuse.org/favicon.ico",
+      "icon": "https://www.opensuse.org/favicon.ico",
+      "rank": 7
     }
   ]
 }
