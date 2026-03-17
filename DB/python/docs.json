@@ -1,16 +1,22 @@
 {
   "data": [
     {
-      "ids": [3,6],
+      "title": "Python print() function",
       "description": "Returns a printed representation of the objects.",
       "link": "https://python-reference.readthedocs.io/en/latest/docs/functions/print.html",
-      "ofic": 0
+      "icon": "https://www.python.org/static/favicon.ico",
+      "date": "2024-01-10",
+      "ids": [3, 6],
+      "rank": 9000
     },
     {
-      "ids": [6,8],
-      "description": "There are several ways to present the output of a program; data can be printed in a human-readable form, or written to a file for future use. This chapter will discuss some of the possibilities.",
+      "title": "Python Input and Output",
+      "description": "Data can be printed in human-readable form or written to a file.",
       "link": "https://docs.python.org/3/tutorial/inputoutput.html",
-      "ofic": 0
+      "icon": "https://www.python.org/static/favicon.ico",
+      "date": "2023-08-01",
+      "ids": [6, 8],
+      "rank": 10000
     }
   ]
 }
