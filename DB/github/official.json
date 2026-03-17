@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "ids": [23],
+      "title": "GitHub",
+      "description": "GitHub (/ˈɡɪthʌb/ ⓘ) is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access …",
+      "link": "https://github.com/",
+      "icon": "https://github.com/favicon.ico",
+      "rank": 10
+    }
+  ]
+}

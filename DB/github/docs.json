@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "ids": [17,18,19,20,21,22,23,24],
+      "title": "Cloning a repository",
+      "description": "When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.",
+      "link": "https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository",
+      "icon": "https://docs.github.com/favicon.ico",
+      "rank": 9
+    }
+  ]
+}

@@ -15,5 +15,13 @@
     "mint": 13,
     "suse": 14,
     "kernel": 15,
-    "distro": 16
+    "distro": 16,
+    "download": 17,
+    "git": 18,
+    "repo": 19,
+    "terminal": 20,
+    "clone": 21,
+    "repository": 22,
+    "github": 23,
+    "remote": 24
 }
