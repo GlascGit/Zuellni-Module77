@@ -2,8 +2,7 @@
   "linux": [
     0,
     [
-      ["install.json", [18,19,20]],
-      ["fedora.json", [2]]
+      ["official.json", [0,2,9,10,11,12,13,14,15,16]],
     ]
   ],
   "python": [

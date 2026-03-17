@@ -7,5 +7,13 @@
     "objects": 5,
     "output": 6,
     "str": 7,
-    "input" : 8
+    "input" : 8,
+    "redhat": 9,
+    "ubuntu": 10,
+    "debian": 11,
+    "arch": 12,
+    "mint": 13,
+    "suse": 14,
+    "kernel": 15,
+    "distro": 16
 }

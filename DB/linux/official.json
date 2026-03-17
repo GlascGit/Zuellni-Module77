@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "ids": [0,2,9,16],
+      "name": "Fedora Linux",
+      "official_website": "https://getfedora.org",
+      "official_docs": "https://docs.fedoraproject.org",
+      "description": "Fedora Linux - Sponsored by Red Hat, cutting-edge features"
+    },
+    {
+      "ids": [0,2,9,16],
+      "name": "Red Hat Enterprise Linux",
+      "official_website": "https://www.redhat.com",
+      "official_docs": "https://access.redhat.com/documentation",
+      "description": "RHEL - Enterprise Linux distribution"
+    },
+    {
+      "ids": [0,15],
+      "name": "Linux Kernel",
+      "official_website": "https://www.kernel.org",
+      "official_docs": "https://www.kernel.org/doc/html/latest",
+      "description": "Official Linux Kernel website and documentation"
+    },
+    {
+      "ids": [0],
+      "name": "Ubuntu",
+      "official_website": "https://ubuntu.com",
+      "official_docs": "https://help.ubuntu.com",
+      "description": "Ubuntu Linux - Popular distribution based on Debian"
+    },
+    {
+      "ids": [0],
+      "name": "Debian",
+      "official_website": "https://www.debian.org",
+      "official_docs": "https://www.debian.org/doc",
+      "description": "Debian - The Universal Operating System"
+    },
+    {
+      "ids": [0],
+      "name": "Arch Linux",
+      "official_website": "https://archlinux.org",
+      "official_docs": "https://wiki.archlinux.org",
+      "description": "Arch Linux - Simple, lightweight distribution"
+    },
+    {
+      "ids": [0],
+      "name": "Linux Mint",
+      "official_website": "https://linuxmint.com",
+      "official_docs": "https://linuxmint.com/documentation.php",
+      "description": "Linux Mint - Comfortable and easy to use"
+    },
+    {
+      "ids": [0],
+      "name": "openSUSE",
+      "official_website": "https://www.opensuse.org",
+      "official_docs": "https://doc.opensuse.org",
+      "description": "openSUSE - Making the best Linux desktop"
+    }
+  ]
+}
