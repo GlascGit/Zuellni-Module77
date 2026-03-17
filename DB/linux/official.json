@@ -29,7 +29,7 @@
       "title": "Ubuntu",
       "description": "Ubuntu Linux - Popular distribution based on Debian",
       "link": "https://ubuntu.com",
-      "icon": "https://ubuntu.com/favicon.ico",
+      "icon": "https://ubuntu.com/favicon.png",
       "rank": 8
     },
     {
@@ -45,7 +45,7 @@
       "title": "Arch Linux",
       "description": "Arch Linux - Simple, lightweight distribution",
       "link": "https://archlinux.org",
-      "icon": "https://archlinux.org/static/logos/favicon.ico",
+      "icon": "https://archlinux.org/favicon.ico",
       "rank": 7
     },
     {
