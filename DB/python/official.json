@@ -1,0 +1,27 @@
+
+[
+  {
+    "ids": [1],
+    "title": "Python",
+    "description": "The official home of the Python Programming Language",
+    "link": "https://www.python.org/",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [1,27],
+    "title": "Our Documentation | Python",
+    "description": "Get started here, or scroll down for documentation broken out by type and subject.",
+    "link": "https://www.python.org/doc/",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [1,27],
+    "title": "Python 3.14 documentation",
+    "description": "The official Python documentation.",
+    "link": "https://docs.python.org/3/",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "rank": 10
+  }
+]

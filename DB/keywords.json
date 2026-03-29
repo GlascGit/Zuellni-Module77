@@ -23,5 +23,8 @@
     "clone": 21,
     "repository": 22,
     "github": 23,
-    "remote": 24
+    "remote": 24,
+    "kali": 25,
+    "update": 26,
+    "documentation": 27
 }

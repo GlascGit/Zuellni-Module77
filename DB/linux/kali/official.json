@@ -1,0 +1,11 @@
+
+[
+  {
+    "ids": [0,25,27],
+    "title": "Kali Docs | Kali Linux Documentation",
+    "description": "Official Documentation",
+    "link": "https://www.kali.org/docs/",
+    "icon": "https://www.kali.org/images/favicon.ico",
+    "rank": 10
+  }
+]
