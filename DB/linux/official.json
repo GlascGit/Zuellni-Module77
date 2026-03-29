@@ -1,92 +1,91 @@
-{
-  "data": [
-    {
-      "ids": [0,2,9,16],
-      "title": "Fedora Linux",
-      "description": "Fedora Linux - Sponsored by Red Hat, cutting-edge features",
-      "link": "https://getfedora.org",
-      "icon": "https://getfedora.org/favicon.ico",
-      "rank": 10
-    },
-    {
-      "ids": [0,2,9,16],
-      "title": "Kali Linux",
-      "description": "Home of Kali Linux, an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.",
-      "link": "https://www.kali.org",
-      "icon": "https://www.kali.org/images/favicon.ico",
-      "rank": 9
-    },
-    {
-      "ids": [0,2,9,16],
-      "title": "Pop!_OS",
-      "description": "Linux distribution based on Fedora and Universal Blue",
-      "link": "https://system76.com/pop",
-      "icon": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/product_images/system76_logo-fav-32x32.png",
-      "rank": 9
-    },
-    {
-      "ids": [0,2,9,16],
-      "title": "Bazzite Linux",
-      "description": "Linux distribution based on Fedora and Universal Blue",
-      "link": "https://bazzite.gg",
-      "icon": "https://bazzite.gg/favicon.ico",
-      "rank": 9
-    },
-    {
-      "ids": [0,2,9,16],
-      "title": "Red Hat Enterprise Linux",
-      "description": "RHEL - Enterprise Linux distribution",
-      "link": "https://www.redhat.com",
-      "icon": "https://www.redhat.com/favicon.ico",
-      "rank": 9
-    },
-    {
-      "ids": [0,15],
-      "title": "Linux Kernel",
-      "description": "Official Linux Kernel website and documentation",
-      "link": "https://www.kernel.org",
-      "icon": "https://www.kernel.org/theme/images/logos/favicon.png",
-      "rank": 281969
-    },
-    {
-      "ids": [0],
-      "title": "Ubuntu",
-      "description": "Ubuntu Linux - Popular distribution based on Debian",
-      "link": "https://ubuntu.com",
-      "icon": "https://ubuntu.com/favicon.png",
-      "rank": 8
-    },
-    {
-      "ids": [0],
-      "title": "Debian",
-      "description": "Debian - The Universal Operating System",
-      "link": "https://www.debian.org",
-      "icon": "https://www.debian.org/favicon.ico",
-      "rank": 8
-    },
-    {
-      "ids": [0],
-      "title": "Arch Linux",
-      "description": "Arch Linux - Simple, lightweight distribution",
-      "link": "https://archlinux.org",
-      "icon": "https://archlinux.org/favicon.ico",
-      "rank": 7
-    },
-    {
-      "ids": [0],
-      "title": "Linux Mint",
-      "description": "Linux Mint - Comfortable and easy to use",
-      "link": "https://linuxmint.com",
-      "icon": "https://linuxmint.com/favicon.ico",
-      "rank": 7
-    },
-    {
-      "ids": [0],
-      "title": "openSUSE",
-      "description": "openSUSE - Making the best Linux desktop",
-      "link": "https://www.opensuse.org",
-      "icon": "https://www.opensuse.org/favicon.ico",
-      "rank": 7
-    }
-  ]
-}
+
+[
+  {
+    "ids": [0,15],
+    "title": "Linux Kernel",
+    "description": "Official Linux Kernel website and documentation",
+    "link": "https://www.kernel.org",
+    "icon": "https://www.kernel.org/theme/images/logos/favicon.png",
+    "rank": 10
+  },
+  {
+    "ids": [0,2,9,16,25],
+    "title": "Kali Linux",
+    "description": "Home of Kali Linux, an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.",
+    "link": "https://www.kali.org",
+    "icon": "https://www.kali.org/images/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Ubuntu",
+    "description": "Ubuntu Linux - Popular distribution based on Debian",
+    "link": "https://ubuntu.com",
+    "icon": "https://ubuntu.com/favicon.png",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Debian",
+    "description": "Debian - The Universal Operating System",
+    "link": "https://www.debian.org",
+    "icon": "https://www.debian.org/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Arch Linux",
+    "description": "Arch Linux - Simple, lightweight distribution",
+    "link": "https://archlinux.org",
+    "icon": "https://archlinux.org/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Linux Mint",
+    "description": "Linux Mint - Comfortable and easy to use",
+    "link": "https://linuxmint.com",
+    "icon": "https://linuxmint.com/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "openSUSE",
+    "description": "openSUSE - Making the best Linux desktop",
+    "link": "https://www.opensuse.org",
+    "icon": "https://www.opensuse.org/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0,2,9,16],
+    "title": "Fedora Linux",
+    "description": "Fedora Linux - Sponsored by Red Hat, cutting-edge features",
+    "link": "https://getfedora.org",
+    "icon": "https://getfedora.org/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Pop!_OS",
+    "description": "Linux distribution based on Fedora and Universal Blue",
+    "link": "https://system76.com/pop",
+    "icon": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/product_images/system76_logo-fav-32x32.png",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Bazzite Linux",
+    "description": "Linux distribution based on Fedora and Universal Blue",
+    "link": "https://bazzite.gg",
+    "icon": "https://bazzite.gg/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [0],
+    "title": "Red Hat Enterprise Linux",
+    "description": "RHEL - Enterprise Linux distribution",
+    "link": "https://www.redhat.com",
+    "icon": "https://www.redhat.com/favicon.ico",
+    "rank": 10
+  }
+]

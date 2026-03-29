@@ -1,22 +1,18 @@
-{
-  "data": [
-    {
-      "title": "Python print() function",
-      "description": "Returns a printed representation of the objects.",
-      "link": "https://python-reference.readthedocs.io/en/latest/docs/functions/print.html",
-      "icon": "https://www.python.org/static/favicon.ico",
-      "date": "2024-01-10",
-      "ids": [3, 6],
-      "rank": 9000
-    },
-    {
-      "title": "Python Input and Output",
-      "description": "Data can be printed in human-readable form or written to a file.",
-      "link": "https://docs.python.org/3/tutorial/inputoutput.html",
-      "icon": "https://www.python.org/static/favicon.ico",
-      "date": "2023-08-01",
-      "ids": [6, 8],
-      "rank": 10000
-    }
-  ]
-}
+[
+  {
+    "ids": [1,3,6],
+    "title": "Python print() function",
+    "description": "Returns a printed representation of the objects.",
+    "link": "https://python-reference.readthedocs.io/en/latest/docs/functions/print.html",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "rank": 10
+  },
+  {
+    "ids": [1,6,8],
+    "title": "Python Input and Output",
+    "description": "Data can be printed in human-readable form or written to a file.",
+    "link": "https://docs.python.org/3/tutorial/inputoutput.html",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "rank": 10
+  }
+]
